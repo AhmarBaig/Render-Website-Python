@@ -1,4 +1,4 @@
-# Render Website Python
+# Automatic Screenshot w/ Python!
 - This is a python script that will take a screenshot of at least 2500px width (more realistically the whole webpage) and save it locally. 1000s of URLs (Max 10,000) can be used at 1 time for the script, although it is untested due to personal limitations.
 - Screenshots are named with the URL of the website.
   - Example: A screenshot of https://google.com will become https:__google_com.
